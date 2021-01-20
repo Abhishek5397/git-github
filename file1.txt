@@ -1,1 +1,2 @@
 This is my first file contribution, from my workspace.
+Now after commiting the complete file, I am making changes in the file, just to check the nature of command - git status
